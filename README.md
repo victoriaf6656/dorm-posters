@@ -16,9 +16,11 @@ This becomes really important as you start to select your roommate for college. 
 * You'll code your solution in `style.css`. Go ahead and open that file.
 * Now that you have `index.html`, `style.css`, and the **preview** of `index.html` open, drag `style.css` **right** and **down** like the image below:  
 
-<img src="http://i.imgur.com/zgTSZO2.png">
+<!--<img src="https://i.imgur.com/zgTSZO2.png">-->
+<img src="images/window.png">
 You can also click on the word `Workspace` on the left for more room.  Now your workspace should look like this:
-<img src="http://i.imgur.com/Xsq9DHK.png">
+<!--<img src="https://i.imgur.com/Xsq9DHK.png">-->
+<img src="images/workspace.png">
 
 
 ### Step 1: "The Classy Roommate"
