@@ -69,30 +69,29 @@ Luckily, we can give `padding` one, two, three, or four values.
 
 #### One value
 <img src="https://i.imgur.com/yTSgH2K.png" align="right" height="75px">
-
 * `padding: 10px;`  
     * all four paddings are 10px
 
 #### Two values
 <img src="https://i.imgur.com/eLC41ac.png" align="right" height="75px">
 * `padding: 10px 5px;`
-  * top and bottom paddings are 10px
-  * right and left paddings are 5px
+    * top and bottom paddings are 10px
+    * right and left paddings are 5px
 
 #### Three values
 <img src="https://i.imgur.com/qMXHXok.png" align="right" height="75px">
 * `padding: 10px 5px 15px;`
-  * top padding is 10px
-  * right and left paddings are 5px
-  * bottom padding is 15px
+    * top padding is 10px
+    * right and left paddings are 5px
+    * bottom padding is 15px
 
 #### Four values
 <img src="https://i.imgur.com/fy6Mz6u.png" align="right" height="75px">
 * `padding: 10px 5px 15px 20px;`
-  * top padding is 10px
-  * right padding is 5px
-  * bottom padding is 15px
-  * left padding is 20px
+    * top padding is 10px
+    * right padding is 5px
+    * bottom padding is 15px
+    * left padding is 20px
 
 _(The same applies to_ `margin` _)_  
 For an in-depth explanation, <a href="http://www.w3schools.com/cssref/pr_margin.asp" target="_blank">read more here</a>.
