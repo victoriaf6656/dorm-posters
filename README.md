@@ -69,7 +69,7 @@ Luckily, we can give `padding` one, two, three, or four values.
 
 #### One value
 <img src="https://i.imgur.com/yTSgH2K.png" align="right" height="75px">
-* `padding: 10px;`
+* `padding: 10px;`  
   * all four paddings are 10px
 
 #### Two values
